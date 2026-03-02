@@ -1,4 +1,4 @@
-<h1 align="center"> 💊 PharmaTools </h1>h1>
+<h1 align="center"> 💊 PharmaTools </h1>
 
 A **clinical-grade drug information & pharmacology toolkit** built with **React** using **real FDA & NLM APIs**.
 
